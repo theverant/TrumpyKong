@@ -11,5 +11,5 @@ No political bias at all.
 https://www.donkeykonghacks.net/index.html
 
 ### Sprite Editor
-## Classic Mode Engaged
+#### Classic Mode Engaged
 https://umlautllama.com/projects/turaco/
